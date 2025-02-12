@@ -1,4 +1,4 @@
-# **Evershop Search Feature Testing**
+ok# **Evershop Search Feature Testing**
 
 ## **📌 Project Overview**
 This project tests the **Search** functionality of the **Evershop** e-commerce platform. The client requested a **dynamic search feature** that allows users to find products using **keywords** or **specific text**.
@@ -20,4 +20,4 @@ This project tests the **Search** functionality of the **Evershop** e-commerce p
 ## **📌 How to Run Tests**
 1. Open **Evershop** ([Site](https://demo.evershop.io/)).  
 2. Perform search, apply filters, and verify results.  
-3. Use **Postman** to send API requests for search validation.  
+3. Use **Postman** to send API requests for search and add product to cart.  
