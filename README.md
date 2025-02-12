@@ -1,4 +1,4 @@
-ok# **Evershop Search Feature Testing**
+# **Evershop Search Feature Testing**
 
 ## **📌 Project Overview**
 This project tests the **Search** functionality of the **Evershop** e-commerce platform. The client requested a **dynamic search feature** that allows users to find products using **keywords** or **specific text**.
